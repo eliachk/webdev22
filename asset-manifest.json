@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/webdev22/static/css/main.ac2c9c62.css",
+    "main.js": "/webdev22/static/js/main.a1efc339.js",
+    "static/media/4.jpg": "/webdev22/static/media/4.5507a01b0cabbe956ac5.jpg",
+    "static/media/2.jpg": "/webdev22/static/media/2.763425d2b93ded454ef4.jpg",
+    "static/media/3.jpg": "/webdev22/static/media/3.3d27d91c6f5112a3711e.jpg",
+    "static/media/1.jpg": "/webdev22/static/media/1.d66b40a4ef0d8633e05b.jpg",
+    "static/media/5.jpeg": "/webdev22/static/media/5.4b2eaf55c67d284939bd.jpeg",
+    "static/media/guide.jpg": "/webdev22/static/media/guide.a53343ca935a64646670.jpg",
+    "static/media/going_postal.jpg": "/webdev22/static/media/going_postal.82352b695e6ce6398702.jpg",
+    "static/media/soul_music.jpg": "/webdev22/static/media/soul_music.3a1778133db4d08f3050.jpg",
+    "static/media/guards.jpg": "/webdev22/static/media/guards.4bb55d7ade684053083a.jpg",
+    "static/media/logo.svg": "/webdev22/static/media/logo.6417a27e0e10b3ffbee35aa65ee62458.svg",
+    "static/media/slider.svg": "/webdev22/static/media/slider.7a19e2bd288a4097b150360dbc0ff7fd.svg",
+    "static/media/vk.svg": "/webdev22/static/media/vk.d84c1ca8990e4d750739045ecbb8a96f.svg",
+    "static/media/home.svg": "/webdev22/static/media/home.d33844389ac6ef8789e3dbbd56139e19.svg",
+    "static/media/cancel.svg": "/webdev22/static/media/cancel.73105b83a3ae14758aac5330d6955ef5.svg",
+    "static/media/git.svg": "/webdev22/static/media/git.94d582f2915a5274b68035e4c6a54196.svg",
+    "static/media/quiz.svg": "/webdev22/static/media/quiz.9e5a76f7532368a2b795e1c3aa6e56c8.svg",
+    "static/media/calculator.svg": "/webdev22/static/media/calculator.65c6833faf86b240ff64977e44233016.svg",
+    "static/media/right.svg": "/webdev22/static/media/right.5a49b89a5f69323fe4256f4bc0dc261a.svg",
+    "static/media/left.svg": "/webdev22/static/media/left.210048d5733a1474ecf23fce73dbe77e.svg",
+    "static/media/shop.svg": "/webdev22/static/media/shop.5360a2a9e7a2ea00e86a311f657c970a.svg",
+    "static/media/slideshow.svg": "/webdev22/static/media/slideshow.903cf33e375872641dc2129e7e3a5ac9.svg",
+    "index.html": "/webdev22/index.html",
+    "static/media/arrow-left.svg": "/webdev22/static/media/arrow-left.6d42ea946f8d8c55d01b51beab47bd8d.svg",
+    "static/media/arrow-right.svg": "/webdev22/static/media/arrow-right.3943678a88e45ad0cf8713439a432e99.svg",
+    "static/media/pause.svg": "/webdev22/static/media/pause.497f705e8af71538c00f37c94c1aebaf.svg",
+    "static/media/about.svg": "/webdev22/static/media/about.7a5044c24fe5f9e251bd3aed3ca84df8.svg",
+    "static/media/play.svg": "/webdev22/static/media/play.129a4ab7bf0e5390971d7e54084e9471.svg",
+    "main.ac2c9c62.css.map": "/webdev22/static/css/main.ac2c9c62.css.map",
+    "main.a1efc339.js.map": "/webdev22/static/js/main.a1efc339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2c9c62.css",
+    "static/js/main.a1efc339.js"
+  ]
+}
